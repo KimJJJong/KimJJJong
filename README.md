@@ -1,4 +1,4 @@
-안녕하세요. C#/.NET으로 게임 서버를 만드는 김종민입니다.  
+C#/.NET으로 게임 서버를 만들고 있습니다.  
 ASP.NET Core API, gRPC ControlPlane, TCP GameServer를 나누어 인증·세션·Room 수명주기를 구현했습니다.  
 SocketAsyncEventArgs 기반 서버 코어와 논리 Tick 결과 동기화를 직접 다뤘습니다.  
 PostgreSQL·Redis·Docker 환경을 구성하고, 테스트와 구조화 로그로 동작을 확인합니다.  
